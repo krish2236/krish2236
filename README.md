@@ -21,8 +21,6 @@
 
 ## 📊 GitHub Stats
 
-<div class="animated-section">
-
 <img src="https://github-readme-stats.vercel.app/api?username=krish2236&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish2236&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
