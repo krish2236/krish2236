@@ -27,7 +27,13 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/krish2236/krish2236/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/krish2236/krish2236/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/krish2236/krish2236/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://github.com/krish2236/krish2236/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
